@@ -40,7 +40,7 @@ int main()
 
     while(choise !=4)
     {
-        printf("choose one from the below option : ");
+        printf("choose one of the below option : ");
         printf("\n1.push\n2.pop\n3.show\n4.exit\n");
         printf("enter your choise : ");
         scanf("%d",&choise);
